@@ -15,36 +15,36 @@ export const MODE_CONFIGS: Record<FocusMode, ModeConfig> = {
     name: 'Deep Work',
     description: 'Intense concentration mode',
     colors: {
-      primary: '#1a1a2e',
-      secondary: '#16213e',
-      accent: '#0f3460',
+      primary: '#4a4a8a',
+      secondary: '#5a5a9a',
+      accent: '#6a6aaa',
     },
   },
   'creative': {
     name: 'Creative',
     description: 'Inspiration and creativity',
     colors: {
-      primary: '#2d3436',
-      secondary: '#636e72',
-      accent: '#b2bec3',
+      primary: '#8a4a8a',
+      secondary: '#9a5a9a',
+      accent: '#aa6aaa',
     },
   },
   'study': {
     name: 'Study',
     description: 'Academic focus mode',
     colors: {
-      primary: '#2c3e50',
-      secondary: '#34495e',
-      accent: '#3498db',
+      primary: '#8a4a4a',
+      secondary: '#9a5a5a',
+      accent: '#aa6a6a',
     },
   },
   'sleep': {
     name: 'Sleep',
     description: 'Relaxation and rest',
     colors: {
-      primary: '#1e272e',
-      secondary: '#2f3542',
-      accent: '#57606f',
+      primary: '#4a8a4a',
+      secondary: '#5a9a5a',
+      accent: '#6aaa6a',
     },
   },
 }; 
